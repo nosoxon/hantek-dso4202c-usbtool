@@ -1,0 +1,4 @@
+build
+hantek-cli
+compile_commands.json
+.ccls-cache
